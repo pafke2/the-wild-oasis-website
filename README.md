@@ -1,10 +1,6 @@
 # 🏔️ The Wild Oasis — Next.js Hotel & Cabin Management Platform
 
-> **Language / Язык:** [English](#english) | [Русский](#русский)
-
 ---
-
-<a name="english"></a>
 
 ### About
 
